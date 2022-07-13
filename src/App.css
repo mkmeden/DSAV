@@ -1,0 +1,36 @@
+.fl{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 6rem;
+    padding-top: 2rem;
+
+}
+
+.fl1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+   margin: 0.5rem;
+   width: auto;
+
+
+}
+
+.size{
+    width: 33%;
+    padding: 3rem;
+}
+
+.bor{
+
+    border-radius: 20px;
+}
+
+.comsize{
+
+    width: 50%;
+}
