@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DSAV/static/css/main.248dd5d9.css",
+    "main.js": "/DSAV/static/js/main.56f373c6.js",
+    "static/js/787.ea748326.chunk.js": "/DSAV/static/js/787.ea748326.chunk.js",
+    "static/media/logo.jpg": "/DSAV/static/media/logo.7ea71f1200cc6542b6d2.jpg",
+    "static/media/logo1.png": "/DSAV/static/media/logo1.5ee445b5178fa50ab2b8.png",
+    "index.html": "/DSAV/index.html",
+    "main.248dd5d9.css.map": "/DSAV/static/css/main.248dd5d9.css.map",
+    "main.56f373c6.js.map": "/DSAV/static/js/main.56f373c6.js.map",
+    "787.ea748326.chunk.js.map": "/DSAV/static/js/787.ea748326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.248dd5d9.css",
+    "static/js/main.56f373c6.js"
+  ]
+}
