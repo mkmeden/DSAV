@@ -12,15 +12,15 @@ export default function BST() {
   <div class="pa2 ph3-ns pb3-ns">
     <div class="dt w-100 mt1">
       <div class="dtc">
-        <h1 class="f3 mv0">Binary Search Tree</h1>
+        {/* <h1 class="f3 mv0">Binary Search Tree</h1> */}
       </div>
 
     </div>
-    <p class="f6 lh-copy tmeasure mt2 mid-gray">
+    {/* <p class="f6 lh-copy tmeasure mt2 mid-gray">
 
     A BST is considered a data structure made up of nodes, like Linked Lists.
      These nodes are either null or have references to other nodes.
-    </p>
+    </p> */}
   </div>
 </article>
   );

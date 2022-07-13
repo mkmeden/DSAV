@@ -12,13 +12,13 @@ export default function BST() {
   <div class="pa2 ph3-ns pb3-ns">
     <div class="dt w-100 mt1">
       <div class="dtc">
-        <h1 class="f3 mv0">Max Heap</h1>
+        {/* <h1 class="f3 mv0">Max Heap</h1> */}
       </div>
 
     </div>
-    <p class="f6 lh-copy tmeasure mt2 mid-gray">
+    {/* <p class="f6 lh-copy tmeasure mt2 mid-gray">
     In a Max Binary Heap, the key at root must be maximum among all keys present in Binary Heap
-    </p>
+    </p> */}
   </div>
 </article>
   );

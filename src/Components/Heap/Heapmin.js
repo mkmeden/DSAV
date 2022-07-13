@@ -12,14 +12,14 @@ export default function BST() {
   <div class="pa2 ph3-ns pb3-ns">
     <div class="dt w-100 mt1">
       <div class="dtc">
-        <h1 class="f3 mv0">Min Heap</h1>
+        {/* <h1 class="f3 mv0">Min Heap</h1> */}
       </div>
 
     </div>
-    <p class="f6 lh-copy tmeasure mt2 mid-gray">
+    {/* <p class="f6 lh-copy tmeasure mt2 mid-gray">
     A min-heap is a binary tree such that the data contained in each node is less than 
     (or equal to) the data in that node's children.
-    </p>
+    </p> */}
   </div>
 </article>
   );
